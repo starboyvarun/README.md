@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-## I'm a Master's student in Software Engineering and a Machine Learning/Deep Learning Researcher.
+## I'm a full-stack developer and am now proficient in both front-end and back-end development. I'm currently focusing on enhancing my skills in front-end technologies like React and Redux, which are essential for building scalable, responsive, and user-friendly web applications.
 - 🔭 I am about to launch my blogs on Medium.
 - 🌱 I’m currently learning GAN's, Bioinformatics & Reinforcement learning.
 - 👯 I’m looking to collaborate with other Researcher's
 - 🥅 2021 Goals: Contribute more to Open Source projects & finish research manuscript.
 - ⚡ Fun fact: I love to travel, hike, play badminton & help others.
-- I'm excited to announce that I've recently become a full-stack developer and am now proficient in both front-end and back-end development. I'm currently focusing on enhancing my skills in front-end technologies like React and Redux, which are essential for building scalable, responsive, and user-friendly web applications.
+- I'm excited to announce that I've recently become a 
 - Aside from my development work, I'm also passionate about sharing my knowledge and research with others. I'm about to launch my blogs on Medium, where I'll be sharing insights and ideas on various topics related to software engineering, machine learning, and deep learning.
 - I'm always looking to collaborate with other researchers and developers to gain new perspectives and develop innovative solutions. In addition, my goals for 2021 include contributing more to open-source projects and finishing my research manuscript.
 - Finally, outside of work and studies, I enjoy traveling, hiking, playing badminton, and helping others. It's essential to have a well-rounded life, and I find these activities fulfilling and rejuvenating.
