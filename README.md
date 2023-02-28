@@ -74,6 +74,8 @@
 </tr>
 </table>
 
+
+
 ## Reach me here:
 
 <a href="https://www.linkedin.com/in/varun-allen-singh-b06030128/">
@@ -84,6 +86,8 @@ src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge
 <img alt="Gmail"
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
