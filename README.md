@@ -85,7 +85,5 @@ src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
